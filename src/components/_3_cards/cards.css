@@ -1,0 +1,15 @@
+.header-cards{
+    margin-top: 5rem;
+    color: black;
+    padding-inline: 3rem;
+}
+.box-cards{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-block: 5rem;
+    padding-inline: 3rem;
+}

@@ -1,0 +1,15 @@
+.card {
+    width: calc((100% / 3) - 1rem);
+    overflow: hidden;
+    margin-bottom: 1rem;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 1rem;
+    margin-bottom: .5rem;
+}
+
+.card .card-content{
+    padding-inline: .5rem;
+}
